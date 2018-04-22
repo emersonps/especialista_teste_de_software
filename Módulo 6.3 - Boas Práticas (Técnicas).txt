@@ -1,0 +1,42 @@
+1. Técnicas:
+ - Não execute cenários roboticamente. Explore quando necessário. (pode registrar novo cenário na planilha)
+ - Achou uma falha? Detalhe ao máximo.
+	Exemplo:
+		Errado: "A caixa de mensagem não segue o padrão" - (que padrão, que caixa?)
+		Correto: "Após não preencher um dos campos obrigatórios no formulário de cadastro de usuário, a caixa de mensagens apresentada está em um formato diferente das demais caixas de mensagens de erro do sistema"
+	.Browser: Chronos v10.2
+	.Dispositivo: Tablet Ipad 7
+	.(Colocar printscreen)
+
+
+
+2. A falha foi corrigida? Reteste! (isso chama-se teste de regressão)
+
+3. Busque padrões ao reportar uma falha:
+	Ex.: Verifique se o erro ocorrido com um produto está associado apenas a tal produto ou se envolve todos os produtos de mesma categoria, cor, faixa de preço, etc.
+
+4. Técnicas:
+	4.1 No lugar da planilha, pode optar por ferramentas web para gestão de incidentes/falhas/melhorias identificas:
+-Proj4me
+-Jira
+-Bugzilla
+-Trac
+-Etc.
+	4.2 Teste sempre os valores limites, grande part dos erros estarão lá.
+	-Formulários:
+		.Campo em branco
+		.Campo com valor inválido
+		.Quantidade de caracteres
+		.E-mail inválido
+		.Mensagens de erro coerentes.
+	
+	4.3 Cálculos
+		.Valores positivos
+		.Valores negativos
+		.Zeros
+		.Intervalos fechados e abertos
+		.Acima do limite máximo e abaixo do limite mínimo
+
+5. O mais importante: tente pensar como um usuário pensaria.
+
+

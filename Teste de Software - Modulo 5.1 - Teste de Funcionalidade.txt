@@ -1,0 +1,16 @@
+Obj.: Validade que as funcionalidades dos sistema estão funcionando corretamente.
+
+Envolve:
+
+-Unidade
+-Integração
+-Sistema
+-Aceitação
+-Alfa
+-Beta
+-Regressão
+
+Exemplo: Tela de envio de e-mail.
+Testar a funcionalidade de envio de e-mail (destinatário, sem destinatário, pra mais de um destinatário, se envia, se recebe, etc).
+
+

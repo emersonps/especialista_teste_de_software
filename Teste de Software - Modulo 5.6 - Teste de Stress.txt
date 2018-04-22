@@ -1,0 +1,7 @@
+Obj.: Validam o comportamento do sistema em condições extremas.
+
+- O stress no sistema pode abranger cargas de trabalho extremas, memória insuficiente, hardware e serviços indisponíveis ou recursos compartilhados limitados;
+
+- Executado o quanto antes para se ter o tempo necessário para corrigir ou melhorar o desempenho do sistema conforme necessário.
+
+Existem muitos outros tipos de testes (informais) - Teste de recuperabilidade, concorrência, compatibilidade, manutenção, etc.

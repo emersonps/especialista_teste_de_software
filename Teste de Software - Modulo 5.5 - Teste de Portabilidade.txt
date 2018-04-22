@@ -1,0 +1,9 @@
+Obj.: Validam o funcionamento do sistema em diferentes plataformas e dispositivos, nas quais o sistema está proposto a funcionar.
+
+Exemplos:
+-IOS, Android, etc;
+-Smartphone, Tablets, Notebooks, etc;
+-Navegadores;
+-S.O.
+
+

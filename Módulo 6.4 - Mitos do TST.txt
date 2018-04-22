@@ -1,0 +1,6 @@
+1. Testando vamos encontrar 100% dos defeitos;
+2. O teste de software é um custo extr para o projeto;
+3. Qualquer pessoa é capaz de testar bem, é só seguir o plano de testes;
+4. Programadores não precisam testar;
+5. Os testes dos programadores são suficientes; (rs)
+6. Só podemos testar quando o sistema estiver 100% pronto.

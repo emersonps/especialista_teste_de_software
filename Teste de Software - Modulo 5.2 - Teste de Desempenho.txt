@@ -1,0 +1,9 @@
+Obj.: Validar tempo de resposta do sistema no que diz respeito ao seu tempo de resposta para determinadas operaçoes.
+
+Exemplos: 
+-Tempo de resposta de um sistema bancário para processar uma operação;
+-Tempo de resposta do facebook para fazer uploads de fotos;
+-Tempo de resposta de um robô médicco para responder a comandos;
+
+Ferramentas: 
+Jmeter

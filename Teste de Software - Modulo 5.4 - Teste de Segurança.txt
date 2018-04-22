@@ -1,0 +1,8 @@
+Obj.: Validam a proteção de sistema contra invasões ou acesso não autorizado a informações.
+
+Exemplo:
+- Sites com acesso restrito;
+- Tráfego de informações criptografadas;
+- Perfis de acesso estão configurados corretamente.
+
+Algumas empresas pagam caro à Hackers profissionais para tentar invadir o sistema em busca de falha.

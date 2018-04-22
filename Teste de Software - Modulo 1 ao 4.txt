@@ -1,0 +1,56 @@
+Testador
+Tem uma visão pesimista e possui visão de falhas, olha o sistema procurando por erros.
+
+Os fundamentos do teste subdividem-se em três partes:
+Quando testar? - como testar? - o que testar?
+
+Técnicas de Teste:
+Caixa Branca e Caixa Preta.
+
+
+
+
+1 Teste de Unidade
+Assim que cria a primeir operação do sistema (classes, etc)
+Ex.: Facebook - Teste de criação de usuário utilizando a classe usuário.
+
+2 Teste de Integração 
+A nivel de componente. (Ex.: Transferência: tem componentes que calculam, processamentos das classes, valores e saídas, grupos de classes, etc.).
+Ex.: Facebook: Utiliza o componente de registro de usuário.
+
+3 Teste de Sistema
+Executar o sistema como usuário final. Porém como testadores.
+Teste feito após codificação do sistema.
+Ex.: Acessa o sistema e faz vários cadastros com situações diferentes e condições diferentes.
+
+Até aqui a equipe foi responsável pelos testes.
+
+4 Teste de Aceitação
+Dessa vez, executado a nivel de sistema. Testado pela interface do usuário.
+Ex.: Facebook, pelo browser; Whatsapp: pelo aplicativo.
+É feito pelo usuário.
+Nesse caso, o usuário não estará em busca de erros.
+
+O cliente decide se aceita ou não o sistema.
+
+Aqui o Cliente decide SIM ou NÃO
+
+
+5. Teste Beta
+Sistema é executado por um número grande de pessoas sem planejamento, como ponto de vista de usuário.
+Teste feito a partir da interface do usuário.
+Objetivo de receber feedback para que sejam feitas melhorias para lançamento futuro.
+
+6. Teste de Regressão (pode ser realizado em qualquer momento - não necessariamente nessa ordem)
+Reexecutar o teste após alteração serem realizadas no sistema, para saber se tudo continua funcionando corretamente (detectar efeitos colaterais).
+
+É nessa hora que os testes automáticos fazem a maior diferença.
+
+É possível agrupar todos os testes no teste automático.
+Objetivo: averiguar se todos os testes feitos no sitema continuam funcionando após uma alteração.
+
+
+
+
+
+

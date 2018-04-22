@@ -1,0 +1,12 @@
+Obj.: Validam aspectos que envolvem a experiência do usuário ao utilizar o sistema.
+
+Exemplo:
+-Estética de um website;
+-Definição e disposição de cores da interface do aplicativo;
+-Tipo de interface a ser utilizada (touch sreen? Gestos? Sensível ao Som?)
+- Ajuda on-line e contextual;
+- Manual do usuário.
+
+É comum em empresas de desenvolvimentos encontrarmos sala de usuário real em uma sala separada por vidro onde pessoas observam enquanto fazem o teste do software.
+
+O foco não é encontrar falha  o sistema, mas sim perceber a agradabilidade do cliente ao usar o sistema.

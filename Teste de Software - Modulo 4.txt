@@ -1,0 +1,63 @@
+Tipos de Testes
+
+Caixa Branca ou Teste Aberto:
+
+Envolve o teste de Undade e Estáticos
+Teste de métodos e classes, teste de comandos de repetição, teste de condição.
+
+Caixa Preta:
+Teste baseado em entrada e saída de cenários Macro.
+As pessoas não precisam saber programar.
+
+Envolve: Teste de integração
+Teste de Sistema
+Teste de Aceitação
+Teste Alfa
+Teste Beta
+
+TESTE ESTÁTICO OU ANÁLISE ESTÁTICA (Caixa Branca)
+Uma análise visual no código. Tipo, erros de código que não pode ser encontrado na execução dos comandos.
+
+Ao analisar um código podemos encontrar os seguintes erros:
+- Não documentado;
+- Sem tratamento de Exceções;
+- Não fecha conexão após utilizá-la;
+
+TESTE DE CAIXA PRETA
+Testa os botões, Funções, etc. Executando o projeto na prática.
+
+
+TESTE MANUAIS E TESTES AUTOMÁTICOS
+
+Testes Manuais
+Pessoa e Computador
+Alguém que executa a aplicação e testa todas as funcionalidades na interface.
+
+Testes Automáticos
+Análise dos códigos, testes em códigos salvos para futuramente serem executados automaticamente.
+
+Night Build (Trabalho noturno) - As empresas automatizam os teste para rodarem todos os dias pelas madrugadas em tempo de ociosidade do sistema.
+
+
+Teste Estático X Teste Dinâmico
+	Teste Estático (Análise Estática)
+Analisar código sem executá-los e verificar se as boas práticas adotadas foram obedecidas (Teste de Caixa Branca)
+
+Ferramenta: Ex.: FindBugs (Analisa códigos produzidos sem executá-los).
+
+Exemplos de verificação realizadas:
+-Código está documentado?
+-Variáveis e constantes possuem boa nomeclatura?
+-Código está organizado e com boa nomenclatura?
+-Existem possíveis NullPointer não tratados pelo programador?
+-O programador obedeceu à arquitetura dos sistema ao codificar?
+-As consultas ao banco de dados estão sendo fechadas após utilizadas?
+
+TESTE DINÂMICO
+Envolve todos os testes que já vimos.
+Validar o sistema através de sua execução.
+
+Método tradicional: Insere uma entrada, executa o sistema e confere a saída.
+
+As Análises estáticas e dinâmicas se complementam.
+
